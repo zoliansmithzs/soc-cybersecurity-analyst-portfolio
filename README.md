@@ -7,7 +7,7 @@ Recent Computer Science graduate and aspiring SOC/Cybersecurity Analyst. This po
 
 ## About Me
 
-- B.Sc. in Computing (Computer Science), University of Technology, Jamaica (GPA: 3.47 / 4.0)
+- B.Sc. in Computing (Computer Science), University of Technology, Jamaica (GPA: 3.47 / 4.0) (2026)
 - ScotiaRise Cyber Security Bootcamp (Protexxa Cyber Nations) graduate (2025)
 - CompTIA Security+ certified (score: 835/900): [View my Credly badge](https://www.credly.com/badges/0299484f-0b93-4386-be1d-782a07549ef7/linked_in_profile)
 - Completed SOC Fundamentals on LetsDefend (2026): [View my badge](https://app.letsdefend.io/my-rewards/detail/e57af8babf8b4a8c926325d2e79c127e)
