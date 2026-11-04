@@ -3,21 +3,21 @@ Aspiring SOC/Cybersecurity Analyst portfolio: security projects and SOC training
 
 # Zolian Smith | SOC / Cybersecurity Analyst Portfolio
 
-Recent Computer Science graduate and aspiring SOC/Cybersecurity Analyst. This portfolio collects my security projects and SOC training write-ups.
+Recent Computer Science graduate and aspiring SOC/Cybersecurity Analyst. This portfolio collects my security projects and SOC training labs.
 
 ## About Me
 
-- B.Sc. in Computing (Computer Science), University of Technology, Jamaica (GPA: 3.47 / 4.0) (2026)
+- B.Sc. in Computing (Computer Science), University of Technology, Jamaica (GPA: 3.47 / 4.0)
 - ScotiaRise Cyber Security Bootcamp (Protexxa Cyber Nations) graduate (2025)
 - CompTIA Security+ certified (score: 835/900): [View my Credly badge](https://www.credly.com/badges/0299484f-0b93-4386-be1d-782a07549ef7/linked_in_profile)
-- Completed SOC Fundamentals on LetsDefend (2026): [View my badge](https://app.letsdefend.io/my-rewards/detail/e57af8babf8b4a8c926325d2e79c127e)
-- Currently working through the SOC analyst paths on LetsDefend and TryHackMe
+- LetsDefend SOC Analyst learning path: completed SOC Fundamentals ([View my badge](https://app.letsdefend.io/my-rewards/detail/e57af8babf8b4a8c926325d2e79c127e)); currently working through the remaining courses
+- Currently working through the SOC analyst path on TryHackMe
 
 ## Skills
 
-- **Security:** Vulnerability management, incident response, disaster recovery, risk assessment, security policy writing, NIST CSF, ISO/IEC 27001, CVSS scoring
-- **Tools:** Tenable, Cisco Packet Tracer, Power BI, Tableau
-- **Programming and data:** Python, SQL, C#, JavaScript, HTML, CSS, data cleaning and visualization
+- **Security:** Vulnerability management, incident response, disaster recovery, risk assessment, security policy writing, log analysis (training labs), NIST CSF, ISO/IEC 27001, CVSS scoring
+- **Tools:** Tenable, Cisco Packet Tracer, LetsDefend
+- **Programming:** Python, SQL, C#, JavaScript, HTML, CSS
 
 ## Projects
 
@@ -32,9 +32,15 @@ These projects were completed in 2025 as part of the ScotiaRise Cyber Security A
 | [Disaster Recovery Playbook](projects/05-Disaster-Recovery-Playbook.pdf) | Wrote a 5-phase playbook (triage, investigation, eradication, recovery, post-incident) with a flowchart, tools, response roles and lessons learned |
 | [Cybersecurity Policy (Capstone)](projects/06-Cybersecurity-Policy-Capstone.pdf) | Authored a cybersecurity policy for a small business covering passwords, training, data protection, incident response, network security, remote work and enforcement, mapped to NIST CSF 2.0, with an employee awareness guide |
 
+## SOC Training Labs
+
+| Lab | Summary |
+|---|---|
+| [LetsDefend: SOC Log Analysis](projects/07-LetsDefend-SOC-Log-Analysis.pdf) | Searched proxy and DNS logs in a simulated SOC log management platform, identified source and destination IP addresses and ports, and classified log types. A hands-on training lab, not professional experience. |
+
 ## Coming Next
 
-- SOC investigation write-ups from my LetsDefend and TryHackMe training
+- More SOC investigation write-ups from my LetsDefend and TryHackMe training
 - A Splunk home lab
 
 ## Contact
